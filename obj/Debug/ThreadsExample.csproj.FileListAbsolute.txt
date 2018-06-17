@@ -1,0 +1,7 @@
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.exe.config
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.exe
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.pdb
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.csprojAssemblyReference.cache
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.csproj.CoreCompileInputs.cache
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.exe
+C:\Work\Training\Threads\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.pdb
